@@ -28,8 +28,8 @@ public class MainActivity extends AppCompatActivity
                 setContentView(R.layout.activity_main);
 
         // Setup toolbar
-        Toolbar toolbar = findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+            Toolbar toolbar = findViewById(R.id.toolbar);
+            setSupportActionBar(toolbar);
 
         // Setup drawer
         drawerLayout = findViewById(R.id.drawer_layout);
