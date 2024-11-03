@@ -51,10 +51,10 @@ public class StudentAdapter extends ListAdapter<Student, StudentAdapter.StudentV
     }
 
     static class StudentViewHolder extends RecyclerView.ViewHolder {
-        private final TextView nameText;
-        private final TextView ageText;
-        private final TextView gradeText;
-        private final TextView majorText;
+            private final TextView nameText;
+            private final TextView ageText;
+            private final TextView gradeText;
+            private final TextView majorText;
 
         StudentViewHolder(@NonNull View itemView) {
             super(itemView);
