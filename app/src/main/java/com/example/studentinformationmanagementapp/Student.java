@@ -1,10 +1,10 @@
 package com.example.studentinformationmanagementapp;
 
-public class Student {
-    private String name;
-    private int age;
-    private String grade;
-    private String major;
+    public class Student {
+        private String name;
+        private int age;
+        private String grade;
+        private String major;
 
     public Student(String name, int age, String grade, String major) {
         this.name = name;
