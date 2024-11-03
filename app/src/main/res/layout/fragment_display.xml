@@ -15,6 +15,6 @@
         android:layout_height="wrap_content"
         android:text="No student data available"
         android:layout_gravity="center"
-        android:visibility="gone" /> <!-- Initially hidden -->
+        android:visibility= "gone" /> <!-- Initially hidden -->
 
 </FrameLayout>
