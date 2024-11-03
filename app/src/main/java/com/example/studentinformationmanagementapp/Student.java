@@ -16,6 +16,6 @@ package com.example.studentinformationmanagementapp;
     // Getters
     public String getName() { return name; }
     public int getAge() { return age; }
-    public String getGrade() { return grade; }
-    public String getMajor() { return major; }
+        public String getGrade() { return grade; }
+        public String getMajor() { return major; }
 }
