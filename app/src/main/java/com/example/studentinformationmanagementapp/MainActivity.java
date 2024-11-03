@@ -57,8 +57,8 @@ public class MainActivity extends AppCompatActivity
         if (getResources().getConfiguration().orientation ==
                 Configuration.ORIENTATION_LANDSCAPE) {
             // In landscape, show both fragments side by side
-            transaction.replace(R.id.fragment_container_left, new DataEntryFragment());
-            transaction.replace(R.id.fragment_container_right, new DisplayFragment());
+                transaction.replace(R.id.fragment_container_left, new DataEntryFragment());
+                transaction.replace(R.id.fragment_container_right, new DisplayFragment());
         } else {
             // In portrait, show single fragment
             transaction.replace(R.id.fragment_container, fragment);
