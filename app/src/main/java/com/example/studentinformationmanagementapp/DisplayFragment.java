@@ -53,16 +53,16 @@ public class DisplayFragment extends Fragment {
 
         studentViewModel.getStudents().observe(getViewLifecycleOwner(), new Observer<List<Student>>() {
             @Override
-            public void onChanged(List<Student> students) {
-                if (students.isEmpty()) {
-                    emptyView.setVisibility(View.VISIBLE);
-                    recyclerView.setVisibility(View.GONE);
-                } else {
-                    emptyView.setVisibility(View.GONE);
-                    recyclerView.setVisibility(View.VISIBLE);
-                    adapter.submitList(students);
+                public void onChanged(List<Student> students) {
+                    if (students.isEmpty()) {
+                        emptyView.setVisibility(View.VISIBLE);
+                        recyclerView.setVisibility(View.GONE);
+                    } else {
+                        emptyView.setVisibility(View.GONE);
+                        recyclerView.setVisibility(View.VISIBLE);
+                        adapter.submitList(students);
+                    }
                 }
-            }
         });
     }
 }
