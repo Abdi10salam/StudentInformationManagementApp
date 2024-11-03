@@ -1,0 +1,31 @@
+[33mcommit f9e90e8606dcd701f0cd30c059686637b8886c6b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mscroll[m[33m, [m[1;31morigin/scroll[m[33m)[m
+Author: abdi10salam <mrcabdisalaam@gmail.com>
+Date:   Sun Nov 3 19:49:40 2024 +0300
+
+    cummmit 2 from 16dp to 20dp
+
+[33mcommit 97f46df894c3bae2e0ab64f60b2fcf3ebe709f21[m
+Author: abdi10salam <mrcabdisalaam@gmail.com>
+Date:   Sun Nov 3 19:47:43 2024 +0300
+
+    cummmit 1 added to the scroll in orientation mode
+
+[33mcommit 4b564194e7f3973d40680aef9637de00bab92ba8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Your Name <mrcabdisalaam@gmail.com>
+Date:   Sun Nov 3 18:57:37 2024 +0300
+
+    initial upload
+
+[33mcommit aec9803b124806835aca0660bc3fd550157e57e0[m
+Author: Abdi10salam <mrcabdisalaam@gmail.com>
+Date:   Mon Oct 28 01:51:37 2024 +0300
+
+    Add Basic Dependencies:
+    
+    Commit: "Added essential dependencies in build.gradle."
+
+[33mcommit a6b74ec1a5e528a3434c855282eafbacddd53cbf[m
+Author: Abdi10salam <mrcabdisalaam@gmail.com>
+Date:   Mon Oct 28 01:42:25 2024 +0300
+
+    Initial commit
