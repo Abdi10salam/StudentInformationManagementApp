@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         int id = item.getItemId();
         if (id == R.id.nav_data_entry) {
-            loadFragment(new DataEntryFragment());
+                loadFragment(new DataEntryFragment());
         } else if (id == R.id.nav_display) {
             loadFragment(new DisplayFragment());
         }
