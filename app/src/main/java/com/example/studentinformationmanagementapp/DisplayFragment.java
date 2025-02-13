@@ -1,5 +1,5 @@
 package com.example.studentinformationmanagementapp;
-
+//thanks
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
